@@ -56,6 +56,7 @@ To compile and run the program:
 
 Clone the repository:
 sh
+
 Copy the code
 git clone
 https://github.com/your-username/basic-password-encryption-xor-c.git
