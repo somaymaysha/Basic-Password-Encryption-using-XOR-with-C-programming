@@ -59,7 +59,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author
-Your Name - Your GitHub Profile Link
+Your Name - Somaya Hossain
 
 markdown
 Copy
@@ -73,8 +73,6 @@ Copy
 - **Example**: An example of how the program behaves when executed.
 - **Requirements**: Lists the necessary tools and environment needed to run the program.
 - **Security Disclaimer**: Highlights the weaknesses of XOR encryption for real-world use.
-- **License**: Information about the project license (MIT in this case).
-- **Author**: Information about the project author and their GitHub profile link.
 
 This README provides clear guidance to anyone who visits the repository on GitHub, helping them understand the purpose and usage of your code.
 
